@@ -1,5 +1,6 @@
 # dog.rb
 class Dog 
   def bark
-end
+    puts "Woof!"
+  end
 end
